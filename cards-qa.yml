@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related qa APIs"
+  contactDetails:
+    name: "Cheryl Pankag - QA Lead"
+    email: "cheryl@eazybyte.com"
+  onCallSupport:
+    - (310) 432-2356
+    - (201) 654-8721
