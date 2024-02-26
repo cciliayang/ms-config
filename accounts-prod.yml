@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Reine Ashwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    email: "{cipher}f7f1cc6590245f200a73e2ce98f31215ac84587c90b8bcefbb56154254e3531d3be13bb90a7e8850c34ba199909a3b71"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
